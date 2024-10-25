@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EventEase2024
+build_property.RootNamespace = EventEase2024
+build_property.ProjectDir = C:\Users\david\Documents\PUC MINAS\Eixo 2\projeto eventease 2.0\ICEI-PUC-Minas-PMV-ADS\pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease\EventEase2024\EventEase2024\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\david\Documents\PUC MINAS\Eixo 2\projeto eventease 2.0\ICEI-PUC-Minas-PMV-ADS\pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease\EventEase2024\EventEase2024
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Eventos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Eventos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Eventos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Eventos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Eventos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Ingressos/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzc29zXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Participantes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Participantes/Page1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRlc1xQYWdlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Participantes/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRlc1xfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/perfil-usuario/perfil-usuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyZmlsLXVzdWFyaW9ccGVyZmlsLXVzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/david/Documents/PUC MINAS/Eixo 2/projeto eventease 2.0/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t3-grupo1-eventease/EventEase2024/EventEase2024/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j1zwpnsegc

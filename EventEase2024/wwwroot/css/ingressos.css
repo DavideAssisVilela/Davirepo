@@ -1,0 +1,39 @@
+﻿
+:root {
+    --cor1: #A1A1A1;
+    --cor2: #FFFFFF;
+    --cor3: #82ABBB;
+    --cor4: #007FF0;
+    --cor5: #02B3F9;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    border-color: var(--cor1);
+}
+
+article {
+    background-color: var(--cor2);
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#item-carrinho {
+    max-width: 1000px;
+}
+
+button {
+    background-image: linear-gradient(to top, var(--cor4), var(--cor5));
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    max-width: 800px;
+}
